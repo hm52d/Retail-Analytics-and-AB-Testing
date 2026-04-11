@@ -50,8 +50,8 @@ Unlike standard exploratory projects, this analysis bridges the gap between raw 
 
 ## 📁 Repository Structure
 ```text
-├── Task_1_updates2.ipynb       # Data preparation, EDA, and customer analytics
-├── task2_Updates.ipynb         # Control store selection and A/B statistical testing
+├── Phase1.ipynb       # Data preparation, EDA, and customer analytics
+├── Phase2.ipynb         # Control store selection and A/B statistical testing
 ├── presentation.pdf            # Executive-facing report (Pyramid Principles format)
 ├── QVI_data.csv                # Cleaned dataset (input for Phase 2)
 └── README.md
